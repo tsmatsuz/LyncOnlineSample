@@ -1,0 +1,14 @@
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.pdb
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\obj\Release\ResolveAssemblyReference.cache
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.pdb
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.dll
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.pdb
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.dll
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.pdb
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.csprojResolveAssemblyReference.cache

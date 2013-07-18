@@ -1,0 +1,14 @@
+C:\Demo\LyncHelpDeskDemo\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.dll
+C:\Demo\LyncHelpDeskDemo\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.pdb
+C:\Demo\LyncHelpDeskDemo\LyncHelpDeskCommLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\LyncHelpDeskDemo\LyncHelpDeskCommLib\obj\Debug\LyncHelpDeskCommLib.dll
+C:\Demo\LyncHelpDeskDemo\LyncHelpDeskCommLib\obj\Debug\LyncHelpDeskCommLib.pdb
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.pdb
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskCommLib\obj\Debug\ResolveAssemblyReference.cache
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskCommLib\obj\Debug\LyncHelpDeskCommLib.dll
+C:\pj\github\20110629_LyncOnlineSample\LyncHelpDeskCommLib\obj\Debug\LyncHelpDeskCommLib.pdb
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.dll
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.pdb
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskCommLib\obj\Debug\LyncHelpDeskCommLib.dll
+C:\Demo\move\LyncOnlineSample\LyncHelpDeskCommLib\obj\Debug\LyncHelpDeskCommLib.pdb

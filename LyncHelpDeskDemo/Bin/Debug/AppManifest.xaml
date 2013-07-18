@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="LyncHelpDeskDemo" EntryPointType="LyncHelpDeskDemo.App" RuntimeVersion="4.0.60310.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="LyncHelpDeskDemo" Source="LyncHelpDeskDemo.dll" />
+    <AssemblyPart x:Name="LyncHelpDeskCommLib" Source="LyncHelpDeskCommLib.dll" />
+    <AssemblyPart x:Name="Microsoft.Lync.Controls" Source="Microsoft.Lync.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Lync.Controls.Framework" Source="Microsoft.Lync.Controls.Framework.dll" />
+    <AssemblyPart x:Name="Microsoft.Lync.Model" Source="Microsoft.Lync.Model.dll" />
+    <AssemblyPart x:Name="Microsoft.Lync.Utilities" Source="Microsoft.Lync.Utilities.dll" />
+    <AssemblyPart x:Name="System.Xml.Serialization" Source="System.Xml.Serialization.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart Source="ja/System.Xml.Serialization.resources.dll" />
+    <AssemblyPart Source="ja/System.Windows.Controls.resources.dll" />
+  </Deployment.Parts>
+</Deployment>
