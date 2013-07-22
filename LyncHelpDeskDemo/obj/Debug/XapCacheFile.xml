@@ -1,13 +1,13 @@
-﻿<xapCache source="C:\Demo\move\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\LyncHelpDeskDemo.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013/07/18 13:58:58">
-  <file source="C:\Demo\move\LyncOnlineSample\LyncHelpDeskDemo\obj\Debug\LyncHelpDeskDemo.dll" archivePath="LyncHelpDeskDemo.dll" lastWriteTime="2013/07/18 13:58:57" />
-  <file source="C:\Demo\move\LyncOnlineSample\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.dll" archivePath="LyncHelpDeskCommLib.dll" lastWriteTime="2013/07/18 13:58:57" />
-  <file source="C:\Program Files (x86)\Microsoft Office 2013\LyncSDK\Assemblies\Silverlight\Microsoft.Lync.Controls.dll" archivePath="Microsoft.Lync.Controls.dll" lastWriteTime="2013/06/08 15:39:34" />
-  <file source="C:\Program Files (x86)\Microsoft Office 2013\LyncSDK\Assemblies\Silverlight\Microsoft.Lync.Controls.Framework.dll" archivePath="Microsoft.Lync.Controls.Framework.dll" lastWriteTime="2013/06/08 15:39:34" />
-  <file source="C:\Program Files (x86)\Microsoft Office 2013\LyncSDK\Assemblies\Silverlight\Microsoft.Lync.Model.dll" archivePath="Microsoft.Lync.Model.dll" lastWriteTime="2013/06/08 15:39:34" />
-  <file source="C:\Program Files (x86)\Microsoft Office 2013\LyncSDK\Assemblies\Silverlight\Microsoft.Lync.Utilities.dll" archivePath="Microsoft.Lync.Utilities.dll" lastWriteTime="2013/06/08 15:39:34" />
+﻿<xapCache source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\LyncHelpDeskDemo.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013/07/22 10:49:29">
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\obj\Debug\LyncHelpDeskDemo.dll" archivePath="LyncHelpDeskDemo.dll" lastWriteTime="2013/07/22 10:49:28" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskCommLib\Bin\Debug\LyncHelpDeskCommLib.dll" archivePath="LyncHelpDeskCommLib.dll" lastWriteTime="2013/07/22 10:49:27" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\Microsoft.Lync.Controls.dll" archivePath="Microsoft.Lync.Controls.dll" lastWriteTime="2013/06/08 15:39:34" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\Microsoft.Lync.Controls.Framework.dll" archivePath="Microsoft.Lync.Controls.Framework.dll" lastWriteTime="2013/06/08 15:39:34" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\Microsoft.Lync.Model.dll" archivePath="Microsoft.Lync.Model.dll" lastWriteTime="2013/06/08 15:39:34" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\Microsoft.Lync.Utilities.dll" archivePath="Microsoft.Lync.Utilities.dll" lastWriteTime="2013/06/08 15:39:34" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Xml.Serialization.dll" archivePath="System.Xml.Serialization.dll" lastWriteTime="2011/03/10 0:08:16" />
-  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="2011/03/10 0:08:16" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="2011/03/10 0:08:16" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\ja\System.Xml.Serialization.resources.dll" archivePath="ja\System.Xml.Serialization.resources.dll" lastWriteTime="2011/03/10 6:37:56" />
-  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\ja\System.Windows.Controls.resources.dll" archivePath="ja\System.Windows.Controls.resources.dll" lastWriteTime="2011/03/10 6:37:58" />
-  <file source="C:\Demo\move\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013/07/18 13:58:57" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\ja\System.Windows.Controls.resources.dll" archivePath="ja\System.Windows.Controls.resources.dll" lastWriteTime="2011/03/10 6:37:58" />
+  <file source="C:\pj\github\LyncOnlineSample\LyncHelpDeskDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013/07/18 13:58:57" />
 </xapCache>

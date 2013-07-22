@@ -12,3 +12,8 @@ C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.pdb
 C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.dll
 C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.pdb
 C:\Demo\move\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.csprojResolveAssemblyReference.cache
+C:\pj\github\LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.dll
+C:\pj\github\LyncOnlineSample\LyncHelpDeskWeb\bin\LyncHelpDeskWeb.pdb
+C:\pj\github\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.csprojResolveAssemblyReference.cache
+C:\pj\github\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.dll
+C:\pj\github\LyncOnlineSample\LyncHelpDeskWeb\obj\Release\LyncHelpDeskWeb.pdb

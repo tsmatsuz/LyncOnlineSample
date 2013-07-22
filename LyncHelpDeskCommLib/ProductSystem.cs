@@ -27,7 +27,7 @@ namespace LyncHelpDeskCommLib
 
     public class LyncProductHelpDesk
     {
-        public static string CWEProductInstallLink = @"http://tsmatsuz1.blob.core.windows.net/share/DemoCWESetup.msi";
+        public static string CWEProductInstallLink = @"http://lyncsdksample.azurewebsites.net/DemoCWESetup.msi";
         public static string ProductCWEGuid = "{E817B894-BA6D-4C61-865B-F20F74B6B3DD}";
         public static List<ProductItem> ProductList;
 
